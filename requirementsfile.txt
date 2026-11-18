@@ -1,0 +1,5 @@
+cd frontend
+npm install react-router-dom axios @supabase/supabase-js lucide-react react-markdown
+
+Database password
+4rdyG_t!Hj?NE*D
